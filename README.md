@@ -42,6 +42,13 @@ I stored the cleaned DateFrame into the following csv:
 
 - twitter_archive_master.csv
 
+In order to produce a written report to communicate insights I generated the following files and images from my wrangling efforts:
+
+ - retweet_favorites.png
+ - retweet_ratings.png
+ - retweet_time.png
+ - dog_type_ratingcount.csv
+
 ### Reporting
 
 I wrote up a written report to describe my wrangling efforts across the following files:
@@ -49,10 +56,13 @@ I wrote up a written report to describe my wrangling efforts across the followin
  - wrangle_report.pdf
  - wrangle_report.html
 
-I wrote up a written report to communicate the insights and visualisations producted from wrangled data across the following files:
+I wrote up a written report to communicate the insights and visualisations produced from wrangled data across the following files:
 
  - act_report.pdf
  - act_report.html
+ 
+ 
+ 
 
 
 
